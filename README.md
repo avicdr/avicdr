@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:FF6B35,100:FFA62B&fontColor=0D0B07&text=%3E_%20Om%20Nigam&fontSize=42&desc=Full+Stack+%C2%B7+Rust+Systems+%C2%B7+Distributed+Backends&descSize=18&descColor=0D0B07&descAlignY=62&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:FF6B35,100:FFA62B&fontColor=0D0B07&text=%3E_%20Om%20Nigam&fontSize=42&fontAlignY=32&desc=Full+Stack+%C2%B7+Rust+Systems+%C2%B7+Distributed+Backends&descSize=17&descColor=0D0B07&descAlignY=48&height=240&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -349,7 +349,7 @@ open_to:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0B07?style=for-the-badge&logo=linkedin&logoColor=FFA62B)](https://linkedin.com/in/webavi)
 [![GitHub](https://img.shields.io/badge/GitHub-0D0B07?style=for-the-badge&logo=github&logoColor=FFA62B)](https://github.com/avicdr)
 [![Email](https://img.shields.io/badge/Email-0D0B07?style=for-the-badge&logo=gmail&logoColor=FFA62B)](mailto:avi.codez.00@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-0D0B07?style=for-the-badge&logo=instagram&logoColor=FFA62B)](https://www.instagram.com/_notyouravi/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D0B07?style=for-the-badge&logo=instagram&logoColor=FFA62B)](https://www.instagram.com/aviwasasleep/)
 
 <br>
 
