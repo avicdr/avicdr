@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0B07?style=for-the-badge&logo=linkedin&logoColor=FFA62B)](https://linkedin.com/in/webavi)
 [![Email](https://img.shields.io/badge/Email-0D0B07?style=for-the-badge&logo=gmail&logoColor=FFA62B)](mailto:avi.codez.00@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D0B07?style=for-the-badge&logo=github&logoColor=FFA62B)](https://github.com/avicdr)
-[![Instagram](https://img.shields.io/badge/Instagram-0D0B07?style=for-the-badge&logo=instagram&logoColor=FFA62B)](https://www.instagram.com/_notyouravi/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D0B07?style=for-the-badge&logo=instagram&logoColor=FFA62B)](https://www.instagram.com/aviwasasleep/)
 
 </div>
 
